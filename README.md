@@ -2,6 +2,10 @@
 
 An Arduino-based heart rate monitoring system that provides real-time BPM readings with visual feedback and health advisories.
 
+## How it Started
+
+This was my Minor Project of my college curriculum that I completed in a rush :P
+
 ## Features
 
 - **Real-time Heart Rate Detection**: Accurate BPM measurement using analog pulse sensor
@@ -45,3 +49,6 @@ For detailed information including:
 ---
 
 *This project was developed as part of my diploma curriculum to demonstrate embedded systems programming and sensor integration.*
+
+**Licenced under GNU GPL-3.0**
+> You may copy it, use it, modify it, and republish it freely, but under GNU GPL-3.0 verbatim
